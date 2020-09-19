@@ -1,0 +1,11 @@
+D:\Prj C#\PhoneManagement\bin\Debug\PhoneManagement.exe.config
+D:\Prj C#\PhoneManagement\bin\Debug\PhoneManagement.exe
+D:\Prj C#\PhoneManagement\bin\Debug\PhoneManagement.pdb
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.csprojAssemblyReference.cache
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.Form1.resources
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.Properties.Resources.resources
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.csproj.GenerateResource.cache
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.csproj.CoreCompileInputs.cache
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.exe
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.pdb
+D:\Prj C#\PhoneManagement\obj\Debug\PhoneManagement.Form2.resources
